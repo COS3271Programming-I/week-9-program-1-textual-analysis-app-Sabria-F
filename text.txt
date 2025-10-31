@@ -1,6 +1,6 @@
-Hello my name is Sabria.
-Here are my pets:
-Dog
-Cat
-Snake
+Hello my name is lskeid.
+I have a dog, a cat, and a snake.
+My dog's name is Fido.
+My cat's name is Smokey.
+My snake's name is Hiss and he likes it.
 
